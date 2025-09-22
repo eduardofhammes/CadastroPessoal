@@ -170,7 +170,7 @@
                     
                 
             %>
-            <script>alert("Usuário ou senha incorreta!");</script>
+            <script>alert("Usuário ou senha incorretos!");</script>
             <% 
                 }
             %>
