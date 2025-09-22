@@ -1,2 +1,2 @@
 # CadastroPessoal
-CRUD funcional de usuários utilizando JSP (Java Server Pages), BootStrap e PostgreSQL
+CRUD funcional de usuários utilizando JSP (Java Server Pages), Bootstrap e PostgreSQL
